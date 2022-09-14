@@ -7,6 +7,7 @@ NOTE: The project it's made in Romanian Language, so it might not make any sense
 Background is a css animation using @keyframes.
 
 Tasks are added by a name and the importance of it. For exemple, it's build using The Eisenhower Matrix.
+------------------------------------------------------------------------------------------------------------
 There are 4 types of tasks, as:
 
 de baza = urgent and important
@@ -16,7 +17,7 @@ important = not urgent but important
 poate astepta = 'could wait'
 
 neimportant = not important
-
+------------------------------------------------------------------------------------------------------------
 tasks can be deleted or updated.
 
 tasks are ordered by the importance( most important on the top )
