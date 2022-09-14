@@ -17,6 +17,7 @@ important = not urgent but important
 poate astepta = 'could wait'
 
 neimportant = not important
+
 ------------------------------------------------------------------------------------------------------------
 tasks can be deleted or updated.
 
